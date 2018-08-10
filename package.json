@@ -1,0 +1,24 @@
+{
+  "name": "react-native-amap-bridge",
+  "version": "0.0.1",
+  "description": "react native 和 原生高德地图 交互",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fengtianhe/react-native-amap-bridge.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "amap"
+  ],
+  "author": "fengtianhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fengtianhe/react-native-amap-bridge/issues"
+  },
+  "homepage": "https://github.com/Fengtianhe/react-native-amap-bridge#readme"
+}
