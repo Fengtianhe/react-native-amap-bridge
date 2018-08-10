@@ -1,6 +1,6 @@
 {
   "name": "react-native-amap-bridge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react native 和 原生高德地图 交互",
   "main": "index.js",
   "scripts": {

@@ -1,8 +1,8 @@
-## 复制android目录下的文件至 项目包下
+复制android目录下的文件至 项目包下
 
-## 修改文件中的包名
+修改文件中的包名
 
-## 在`MainApplication`中 `getPackage`中 注册包名 `new MapPackage()`
+在`MainApplication`中 `getPackage`中 注册包名 `new AmapBridgePackage()`
 
 使用
 
